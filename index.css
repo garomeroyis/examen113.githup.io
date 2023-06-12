@@ -1,0 +1,302 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body {
+    background: #966d63;
+
+}
+
+header {
+    position: relative;
+    height: 60px;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    background: rgb(223, 158, 115);
+}
+
+.titulo {
+    width: 100%;
+    color: rgb(255, 252, 252);
+    text-align: center;
+}
+
+
+.sub h2 {
+    width: 100%;
+    color: rgb(255, 255, 255);
+    text-align: start;
+    margin: 1%;
+}
+
+.texto1,
+.texto2 {
+    width: 254px;
+    color: rgb(7, 6, 6);
+    margin: 1%;
+    font-size: 100%;
+    background: #bb9388;
+    border-radius: 9px;
+    font-family: Arial, Helvetica, sans-serif;
+    vertical-align: middle;
+
+
+}
+
+.textos {
+    text-align: center;
+    display: flex;
+    align-items: center;
+
+
+
+}
+
+.contenedor img {
+    margin: 3%;
+    width: 600px;
+    margin-right: 3px;
+    border-radius: 15px;
+}
+
+.titulo {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif,
+        'Arial Narrow', Arial, sans-serif;
+    font-size: 400%;
+    text-align: left;
+    color: #966d63;
+
+}
+
+.fu table {
+    border: 1px solid burlywood;
+
+}
+
+.gif img {
+
+    width: 500px;
+    border-radius: 15%;
+    border-width: 100cm;
+}
+
+.historia {
+    background: #bb9388;
+    border-radius: 9px;
+    font-size: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 1%;
+    vertical-align: middle;
+
+}
+
+.subti {
+    font-size: 40px;
+    margin: 1%;
+    color: rgb(255, 255, 255);
+}
+
+.ss {
+    font-size: 30px;
+    text-align: center;
+}
+
+.vide {
+    position: relative;
+    left: 450px;
+    top: 40px;
+    width: 100px;
+
+}
+
+.T-tipos-ani {
+    font-size: 40px;
+    margin: 1%;
+    color: rgb(255, 255, 255);
+}
+
+.gifdos img {
+    width: 50%;
+    left: 450px;
+    top: 40px;
+
+}
+
+.ANIDOS {
+    font-size: 40px;
+    margin: 1%;
+    color: #583d1e;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.texti p {
+    font-size: 115%;
+    background: #bb9388;
+    border-radius: 9px;
+    margin: 1%;
+    vertical-align: middle;
+}
+
+.imagg img {
+    width: 0px;
+}
+
+
+
+.textt {
+    font-size: 30px;
+    margin: 1%;
+    color: rgb(102, 19, 19);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: #ffeeee;
+    border-radius: 9px;
+    position: absolute;
+    left: opx;
+  
+
+}
+
+.textus {
+    font-size: 115%;
+    background: #bb9388;
+    border-radius: 9px;
+    margin: 1%;
+    vertical-align: middle;
+}
+
+
+
+.texti {
+    text-align: center;
+    display: flex;
+    align-items: center;
+}
+
+.textu {
+    text-align: center;
+    display: flex;
+    align-items: center;
+}
+
+.imau img {
+    width: 500px;
+}
+
+.textop {
+    font-size: 30px;
+    margin: 1%;
+    color: lightcoral;
+}
+
+
+
+.listx {
+    font-size: 115%;
+    background: #bb9388;
+    margin: 5%;
+
+}
+
+.rrd {
+    font-size: 115%;
+    background: #bb9388;
+    margin: 1%;
+}
+
+.rr {
+    text-align: center;
+    display: flex;
+    align-items: center;
+
+}
+
+.textm {
+    font-size: 30px;
+    margin: 1%;
+    color: lightcoral;
+}
+
+.zu {
+    text-align: center;
+    display: flex;
+    align-items: center;
+}
+
+.miki img {
+    width: 400px;
+}
+
+.seccion-final {
+    background: #ffeeee;
+
+}
+
+.table,
+td,
+th {
+    border: 1px solid black;
+}
+
+.table {
+
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.td,
+th {
+    padding: 5px;
+}
+
+.est-ima img {
+    width: 300px;
+
+}
+
+.antici img {
+    width: 300px;
+}
+
+.textos-tablas {
+    text-align: center;
+}
+
+.listas-princi {
+    margin: 4%;
+}
+
+.button {
+    padding: 30px 20px;
+    background-color: #d8a396;
+    cursor: pointer;
+    border-radius: 50px;
+
+}
+
+.boton-posicion {
+    position: absolute;
+    left: 600px;
+    background-color: #7a2d19;
+    cursor: pointer;
+    border-radius: 50px;
+    color: #7a2d19;
+
+}
+.gifdos{
+    position: absolute;
+    left: 100px; 
+    width: 1200px;
+
+
+}
+.link{
+    font-size: 115%;
+    background: #bb9388;
+    border-radius: 9px;
+    margin: 1%;
+    vertical-align: middle;
+}
